@@ -1,0 +1,8 @@
+function myFunction() {
+  let weight = 68;
+  let height = 1.7;
+  let bim = weight / (height*height);
+  //コンソールへの出力
+  console.log(bim);
+  
+}
